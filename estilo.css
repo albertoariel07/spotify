@@ -1,0 +1,30 @@
+body{
+	background-color: #08111e;
+	text-align: center;
+	font-family: sans-serif;
+}
+h1{
+	color: white;
+	margin-top: 6%;
+}
+h2{
+	color: #fcff17;
+	margin-top: -2%;
+}
+button{
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+	width: 485px;
+	height: 35px;
+	background-color: #fcff17;
+	border: none;
+}
+img{
+	margin-top: 10%;
+}
+input{
+	width: 240px;
+	height: 35px;
+	font-size: 18px;
+}
